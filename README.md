@@ -1,62 +1,66 @@
 # 👋 Hi, I'm G.L.V Chaitanya Raju
 
+![Profile Views](https://komarev.com/ghpvc/?username=chaitu2000&label=Profile%20views&color=0e75b6&style=flat)
+
 🎓 MS in Computer Science — University of South Florida  
-💻 Interested in Software Development, Cloud Computing, Data Engineering, and Machine Learning  
 🌎 Based in the United States | Open to opportunities  
 
+I am a Computer Science graduate passionate about building scalable systems, cloud applications, and data-driven solutions. I enjoy working across software engineering, cloud computing, data engineering, and machine learning.
+
 ---
 
-## 🚀 About Me
+## 🚀 Interests
 
-I am a Computer Science graduate passionate about building scalable software systems and data-driven applications. I enjoy exploring cloud technologies, distributed systems, and machine learning solutions to solve real-world problems.
-
-Currently focusing on:
-
+- Software Development
 - Cloud Computing
-- Data Engineering & ETL Pipelines
-- Machine Learning Systems
+- Data Engineering
+- Machine Learning
 - Distributed Systems
-- Scalable Software Development
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Programming Languages
-- Python
-- Java
-- C
-- SQL
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Cloud & Data Technologies
-- Microsoft Azure
-- Databricks
-- Azure Data Factory
-- Azure Data Lake Storage
-- PySpark
+### Cloud & Data
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EA3C00?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-FF6F00?style=for-the-badge)
+![Azure Data Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge)
 
-### Machine Learning & Software
-- scikit-learn
-- NLP
-- Flask
-- Streamlit
-- Git
+### Data Engineering
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-4CAF50?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-673AB7?style=for-the-badge)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🔹 Databricks Lakehouse ETL Pipeline
-A PySpark-based ETL project that processes raw data into analytics-ready datasets using Bronze, Silver, and Gold architecture.
+A data engineering pipeline using PySpark that processes raw data into analytics-ready datasets using Bronze, Silver, and Gold architecture.
 
 ### 🔹 Real-Time Streaming Analytics Pipeline
-A streaming pipeline that simulates live event ingestion and computes near real-time analytics using PySpark Structured Streaming.
+A streaming pipeline that processes event data and generates near real-time analytics outputs.
 
 ### 🔹 AI Resume Screening System
-An NLP-based app that scores resumes against a job description using keyword matching and weighted scoring.
+A machine learning system that analyzes resumes and ranks candidates using NLP and classification models.
 
 ### 🔹 Blood Bank Management System
-A Flask web application for managing donors, inventory, and hospital blood requests.
+A full-stack application that manages donor records, blood inventory, and hospital requests.
 
 ---
 
@@ -69,23 +73,32 @@ A Flask web application for managing donors, inventory, and hospital blood reque
 
 ---
 
-## 🎓 Education
+## 📚 Education
 
 **Master of Science in Computer Science**  
 University of South Florida
 
-Relevant Coursework:
-Algorithms • Operating Systems • Data Mining • Cloud Computing • Information Security
+Relevant Coursework: Algorithms, Operating Systems, Data Mining, Cloud Computing, Information Security
 
 **Bachelor of Engineering in Computer Science**  
 Sathyabama Institute of Science and Technology
 
 ---
 
+## 📊 GitHub Stats
+
+![Chaitanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitu2000&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu2000&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=chaitu2000&theme=github-dark)
+
+---
+
 ## 📫 Connect With Me
 
-- LinkedIn: *[(add your LinkedIn URL)](https://www.linkedin.com/in/chaitanyarajug/)*
-- Portfolio: *[(add your portfolio URL)](https://chaitu2000.github.io/G.L.V-Chaitanya-Raju-portfolio/)*
+- LinkedIn: [](https://www.linkedin.com/in/chaitanyarajug/)
+- Portfolio: [](https://chaitu2000.github.io/G.L.V-Chaitanya-Raju-portfolio/)
 
 
 ---
