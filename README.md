@@ -97,8 +97,8 @@ Sathyabama Institute of Science and Technology
 
 ## 📫 Connect With Me
 
-- LinkedIn: [](https://www.linkedin.com/in/chaitanyarajug/)
-- Portfolio: [](https://chaitu2000.github.io/G.L.V-Chaitanya-Raju-portfolio/)
+- LinkedIn:(https://www.linkedin.com/in/chaitanyarajug/)
+- Portfolio:(https://chaitu2000.github.io/G.L.V-Chaitanya-Raju-portfolio/)
 
 
 ---
